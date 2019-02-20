@@ -1,0 +1,18 @@
+{
+     "object": {
+          "url": "http://www.kdheks.gov/asbestos/download/Kansas_Asbestos_Licensed_Contractors_List.pdf",
+          "columns": [
+               "name",
+               "address",
+               "city",
+               "state",
+               "zip",
+               "phone"
+          ],
+          "document_name": "example",
+          "skiprows": [
+               "3"
+          ],
+          "doctype": "pdf"
+     }
+}
